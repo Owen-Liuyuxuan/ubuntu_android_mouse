@@ -1,0 +1,23 @@
+{
+  "app": "Ubuntu Remote",
+  "version": "1.0.0",
+  "flutter": "3.47.8",
+  "device": "Xiaomi 13 / Android API 36",
+  "apk_sha256": "e47f84d0b263d5132a51e7a490a64f7c55c2e7bc1b615304960c46b4f9484661",
+  "build": "flutter build apk --debug passed",
+  "analysis": "flutter analyze passed",
+  "widget_tests": "2 passed: disconnected safety and connected click/text/slide routing",
+  "motion_unit_tests": "4 passed: upright/flat yaw consistency, pitch direction, stationary bias, clutch reset",
+  "live_bluetooth": "Ubuntu enumerated separate phone mouse and keyboard HID devices",
+  "live_keyboard": "Received h,e,l,l,o as paired key press and release events",
+  "live_mouse": "Received cursor movement and balanced left button press/release events",
+  "live_presenter": "User confirmed all three modes work; initial fixed-axis aiming felt unintuitive. Gravity-relative filter installed; updated build delivered over 1000 mouse events.",
+  "latest_presenter_usability": "User confirmed revised aiming is more natural.",
+  "limitations": [
+    "US-layout ASCII typing; no Unicode text transport",
+    "Relative motion pointer with clutch; no absolute laser calibration or screen overlay",
+    "Keep app foreground; background/lock can unregister HID",
+    "Debug-signed local-testing APK"
+  ],
+  "acceptance": "User confirmed all three modes work, then accepted the revised presenter aiming."
+}

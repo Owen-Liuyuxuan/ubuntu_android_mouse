@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Ubuntu Remote logo">
+  <rect width="128" height="128" rx="30" fill="#10151d"/>
+  <rect x="5" y="5" width="118" height="118" rx="26" fill="none" stroke="#ef9546" stroke-width="2"/>
+  <path d="M47 29L74 52L31 92M47 99L74 76L31 36M47 29V99" fill="none" stroke="#ef9546" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M78 68l27 25-17 2-8 15z" fill="#fff3e5" stroke="#10151d" stroke-width="3" stroke-linejoin="round"/>
+</svg>

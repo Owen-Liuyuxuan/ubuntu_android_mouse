@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Ubuntu Remote: your phone, your Bluetooth mouse, keyboard and motion presenter">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10151d"/><stop offset="1" stop-color="#243143"/></linearGradient><linearGradient id="accent"><stop stop-color="#ef9546"/><stop offset="1" stop-color="#ffc88d"/></linearGradient></defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1040" cy="200" r="210" fill="#ef9546" opacity=".05"/>
+  <circle cx="1040" cy="200" r="155" fill="none" stroke="#ef9546" stroke-width="2" opacity=".15"/>
+  <text x="64" y="80" fill="#ef9546" font-family="sans-serif" font-size="15" font-weight="700" letter-spacing="5">ANDROID → BLUETOOTH → UBUNTU</text>
+  <text x="60" y="158" fill="#fff3e5" font-family="sans-serif" font-size="64" font-weight="700">Ubuntu Remote</text>
+  <text x="64" y="205" fill="#c3cbd6" font-family="sans-serif" font-size="23">Your phone. Your mouse, keyboard and presenter.</text>
+  <rect x="64" y="252" width="172" height="42" rx="21" fill="#ef9546"/>
+  <text x="150" y="279" text-anchor="middle" fill="#10151d" font-family="sans-serif" font-size="16" font-weight="700">No Ubuntu daemon</text>
+  <text x="262" y="279" fill="#c3cbd6" font-family="sans-serif" font-size="17">Standard Bluetooth HID</text>
+  <rect x="850" y="57" width="140" height="247" rx="23" fill="#10151d" stroke="#708096" stroke-width="3"/>
+  <rect x="867" y="85" width="106" height="165" rx="12" fill="#243143"/>
+  <path d="M918 115L953 145L895 198M918 210L953 180L895 127M918 115V210" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="898" y="274" width="44" height="5" rx="3" fill="#708096"/>
+  <path d="M1042 135l67 62-41 5-18 34z" fill="#ef9546" stroke="#10151d" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M1012 117q18-11 30 0m-35-17q24-17 47 0" fill="none" stroke="#8ecdb1" stroke-width="4" stroke-linecap="round"/>
+</svg>
